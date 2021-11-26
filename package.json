@@ -2,6 +2,9 @@
   "name": "ecad-migrator",
   "version": "1.0.0",
   "description": "",
+  "repository": "https://github.com/empress/ecad-migrator",
+  "license": "MIT",
+  "author": "Chris Manson <chris@manson.ie>",
   "main": "index.js",
   "bin": "./port.js",
   "scripts": {
@@ -16,8 +19,6 @@
     "require-directory": "^2.1.1",
     "rimraf": "^3.0.2"
   },
-  "author": "Chris Manson <chris@manson.ie>",
-  "license": "MIT",
   "devDependencies": {
     "eslint": "^7.32.0",
     "eslint-config-airbnb-base": "^14.2.1",

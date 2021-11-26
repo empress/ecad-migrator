@@ -1,0 +1,26 @@
+{
+  "name": "ecad-migrator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "./port.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ember-template-recast": "^5.0.1",
+    "execa": "^5.1.1",
+    "glob": "^7.1.6",
+    "mkdirp": "^1.0.4",
+    "recast": "^0.20.5",
+    "require-directory": "^2.1.1",
+    "rimraf": "^3.0.2"
+  },
+  "author": "Chris Manson <chris@manson.ie>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.24.2"
+  }
+}

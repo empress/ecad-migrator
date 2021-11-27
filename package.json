@@ -6,7 +6,7 @@
   "license": "MIT",
   "author": "Chris Manson <chris@manson.ie>",
   "main": "index.js",
-  "bin": "./port.js",
+  "bin": "./bin/ecad-migrator.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

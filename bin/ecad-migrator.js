@@ -11,13 +11,13 @@ const {
 
 (async () => {
   const steps = [
-    removeEcad,
-    installFieldGuide,
+    // removeEcad,
+    // installFieldGuide,
     // do this twice because of a bug in ember-cli 😭
-    installFieldGuide,
-    addNodeTarget,
-    resetRouter,
-    removeRoutes,
+    // installFieldGuide,
+    // addNodeTarget,
+    // resetRouter,
+    // removeRoutes,
     moveExistingDocs,
   ];
 
